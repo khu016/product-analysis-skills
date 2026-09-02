@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品证据拆解"
+  short_description: "基于真实产品证据完成四层产品拆解并输出HTML报告"
+  default_prompt: "使用 $product-evidence-teardown 检查我提供的产品证据，识别产品类型，并输出可追溯的四层 HTML 拆解报告。"
